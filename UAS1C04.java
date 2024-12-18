@@ -82,7 +82,7 @@ public class UAS1C04 {
     }
 
     public static void menentukanJuara04(){
-        
+        int skorMaks = 0;
          
 
     }
